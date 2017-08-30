@@ -1,22 +1,23 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".nycrc" type="JSON" />
       <mapping pattern="properties.schema" type="JSON" />
+      <mapping pattern=".nycrc" type="JSON" />
       <mapping pattern="rds.template" type="JSON" />
       <mapping pattern="public-private.template" type="JSON" />
       <mapping pattern="master.template" type="JSON" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="NormaliseString" type="PLAIN_TEXT" />
       <mapping pattern=".jscrc" type="PLAIN_TEXT" />
-      <mapping pattern="tool" type="PLAIN_TEXT" />
+      <mapping pattern="adapt-ssh-key" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="tool" type="PLAIN_TEXT" />
       <mapping pattern="env" type="PLAIN_TEXT" />
-      <mapping ext="aurora" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="schema" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="aurora" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
