@@ -17,12 +17,16 @@
       <mask>*.php</mask>
       <mask>*.js*,*.ejs</mask>
       <mask>*.ejs</mask>
-      <mask>*.j</mask>
       <mask>*.json</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.hb</mask>
+      <mask>*.hbs</mask>
     </recentFileMasks>
   </component>
 </application>
