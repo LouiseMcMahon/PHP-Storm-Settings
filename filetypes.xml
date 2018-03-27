@@ -7,6 +7,7 @@
       <mapping pattern="rds.template" type="JSON" />
       <mapping pattern=".nycrc" type="JSON" />
       <mapping pattern="master.template" type="JSON" />
+      <mapping pattern="apache-error" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="css" type="PLAIN_TEXT" />
       <mapping pattern="env" type="PLAIN_TEXT" />
