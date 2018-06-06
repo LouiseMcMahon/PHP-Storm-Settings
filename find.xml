@@ -17,5 +17,6 @@
     <mask>*.php</mask>
     <mask>*.schema</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
